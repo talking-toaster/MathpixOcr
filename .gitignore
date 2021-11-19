@@ -1,3 +1,3 @@
-./data/*
-./localTest
+/data/*
+/localTest
 */__pycache__
